@@ -1,0 +1,5 @@
+app/code/community/FreeLunchLabs                app/code/community/FreeLunchLabs
+app/etc/modules/FreeLunchLabs_CloudFront.xml    app/etc/modules/FreeLunchLabs_CloudFront.xml
+app/design/adminhtml/default/default/template/cloudfront    app/design/adminhtml/default/default/template/cloudfront
+app/design/adminhtml/default/default/layout/cloudfront.xml  app/design/adminhtml/default/default/layout/cloudfront.xml
+lib/AWS     lib/AWS
